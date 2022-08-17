@@ -8,7 +8,8 @@ blablabla
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos 
+As stated above!
 
 ## How To Conribute
 
