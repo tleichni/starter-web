@@ -14,3 +14,7 @@ As stated above!
 ## How To Conribute
 
 ## Deployment
+
+This is a simple web project, deployment can be on any web server or even local file system.
+
+Und noch ein commit
